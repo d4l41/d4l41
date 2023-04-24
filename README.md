@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @d4l41
 - 👀 I’m interested in tx
-- 🌱 I’m currently learning cosmwasm
-- 💞️ I’m looking to collaborate on NFT
+- 🌱 I’m currently learning everything
 - 📫 How to reach me : You'll know
 
 <!---
